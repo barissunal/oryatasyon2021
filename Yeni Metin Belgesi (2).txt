@@ -1,0 +1,15 @@
+1-iki sayının toplamı
+2-iki sayının karelerinin toplamı
+3-1 den 100e kadar olan sayıların küplerinin toplamı
+4-doğum tarihi girilen kişinin yaşını hesaplayan algoritma
+5-bölme işlemini bölme operatörü kullanmadan yapan akış şeması
+6-girilen sayının basamak sayısı
+7-iki sayının ortalaması
+8-girilen sayının pozitif veya negatif olduğunu bul
+9-bir üçgenin alanı
+10-iki sayıdan hangisi daha küçük
+
+
+kaynaklar:
+https://www.algoritmaornekleri.com/algoritma/algoritma-ornekleri-ve-cozumleri-akis-semasi-ile-birlikte/
+https://www.researchgate.net/profile/Deniz-Gezgin/publication/347508715_Aciklamali_Algoritma_Ornek_Sorulari_ve_Cozumleri/links/5fdf09d545851553a0d63b60/Aciklamali-Algoritma-Oernek-Sorulari-ve-Coezuemleri.pdf
